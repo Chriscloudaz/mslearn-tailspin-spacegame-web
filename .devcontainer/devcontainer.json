@@ -39,5 +39,6 @@
         "git-lfs": "latest",
         "github-cli": "latest",
         "powershell": "latest"
+        "ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:1": {},
     }
 }
